@@ -1,0 +1,22 @@
+{
+  "name": "fk-script",
+  "version": "0.0.1",
+  "description": "an experimental polyglot runtime and scripting language",
+  "main": "index.js",
+  "bin": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3p3r/fk-script.git"
+  },
+  "keywords": [],
+  "author": "Sepehr Laal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3p3r/fk-script/issues"
+  },
+  "homepage": "https://github.com/3p3r/fk-script#readme"
+}
